@@ -1,4 +1,5 @@
 
+#Копіює файли
 #!/bin/bash
 
 cd Balaniuk/VARJ
